@@ -1,1 +1,3 @@
 to activate the venv, use the command 'source <directory>/activate'
+
+to add to the alias the "mysite" command, type in terminal 'alias mysite="source /workspace/oss/venvs/mysite.cmd"'
