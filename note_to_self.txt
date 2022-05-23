@@ -1,3 +1,10 @@
 to activate the venv, use the command 'source <directory>/activate'
 
 to add to the alias the "mysite" command, type in terminal 'alias mysite="source /workspace/oss/venvs/mysite.cmd"'
+
+CheongjuHotplace
+dkTpdl826
+
+https://app.gather.town/invite?token=WYdQ0Mu4oWL7mcsFUpkjlPtFvOP1L34o
+
+https://app.gather.town/app
