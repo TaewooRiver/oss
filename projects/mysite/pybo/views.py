@@ -2,5 +2,5 @@
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("안녕하세요오오오오 pybo에 오신것을 환영합니다.")
+    return HttpResponse("집가고싶다")
 # Create your views here.
