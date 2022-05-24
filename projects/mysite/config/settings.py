@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'pybo.apps.PyboConfig', #comma 제발 붙여라
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
