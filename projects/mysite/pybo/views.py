@@ -1,11 +1,10 @@
 #from django.shortcuts import render
 
-#from django.http import HttpResponse
-#from django.views.decorators.csrf import csrf_exempt
-#from django.utils.decorators import method_decorator
-
-#@method_decorator(csrf_exempt, name='admin')
+from django.shortcuts import render
+from .models import Question
 
 def index(request):
-    return HttpResponse("집가고싶다")
+    question_list = Question.objects.order_by('-create_date')
+    context = {'question_list': question_list}
+    return render(request, 'pybo/question_list.html', context)
 # Create your views here.
