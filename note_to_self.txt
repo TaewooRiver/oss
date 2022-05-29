@@ -5,6 +5,7 @@ to add to the alias the "mysite" command, type in terminal 'alias mysite="source
 CheongjuHotplace
 dkTpdl826
 
-https://app.gather.town/invite?token=WYdQ0Mu4oWL7mcsFUpkjlPtFvOP1L34o
+https://app.gather.town/invite?token=u42a6JXtRVDn6ZW7F2sSY9ZP8Zs4Lzn5
 
 https://app.gather.town/app
+
